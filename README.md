@@ -6,15 +6,6 @@
   Informatics students from Indonesia 🇮🇩
 </h4>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanungdata-prog&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanungdata-prog&layout=compact&langs_count=5&theme=dracula" height="150" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 <div align="center">
   <a href="https://www.youtube.com/@joblow1706" target="_blank">

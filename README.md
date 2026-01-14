@@ -13,16 +13,16 @@
 
 <div align="center">
   <a href="https://www.youtube.com/@joblow1706" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+    <img src="logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.instagram.com/hanunggakbar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+    <img src="logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://id.linkedin.com/in/hanung-akbar-pramusintho-b47166323" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:hanungpramusintho@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 

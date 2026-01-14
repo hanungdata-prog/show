@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hanung Akbar Pramusintho and I'm a DevOps, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Hanung Akbar Pramusintho and I will be DevOps, from Indonesia</h2>
 
 ###
 

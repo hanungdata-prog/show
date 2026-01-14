@@ -1,60 +1,58 @@
-<h2 align="left">
-  Hi 👋! My name is Hanung Akbar Pramusintho and I will be DevOps Engineer from Indonesia 🇮🇩
+<h2 align="center">
+  Hi 👋! I'm Hanung Akbar Pramusintho  
 </h2>
 
-###
+<h4 align="center">
+  Informatics students from Indonesia 🇮🇩
+</h4>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanungdata-prog&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanungdata-prog&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
 
-###
+---
 
+### 🌐 Connect with Me
 <div align="center">
   <a href="https://www.youtube.com/@joblow1706" target="_blank">
-    <img src="logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/hanunggakbar/" target="_blank">
-    <img src="logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://id.linkedin.com/in/hanung-akbar-pramusintho-b47166323" target="_blank">
-    <img src="logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:hanungpramusintho@gmail.com">
-    <img src="logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
-###
+---
 
+### 🛠 Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/1b/ac/fc/1bacfc8c5042a267cd7ccfade781a6a3.gif" />
-
-<br clear="both">
-
-###
-
-### 📫 Contact Me
+### 📫 Contact
 - **Discord**: `joblow06`
-- **YouTube**: https://www.youtube.com/@joblow1706
-- **Instagram**: https://www.instagram.com/hanunggakbar/
 - **Email**: hanungpramusintho@gmail.com
 - **LinkedIn**: https://id.linkedin.com/in/hanung-akbar-pramusintho-b47166323
